@@ -1,0 +1,27 @@
+{
+  "name": "simplyrotate-js",
+  "version": "1.0.1",
+  "description": "A package to make it simple to open rotate html elements.",
+  "main": "./js/simplyrotate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rotate",
+    "js",
+    "ts",
+    "html",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Zachary Ishmael",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaederx/simplyrotate-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaederx/simplyrotate-js/issues"
+  },
+  "homepage": "https://github.com/Zaederx/simplyrotate-js#readme"
+}
