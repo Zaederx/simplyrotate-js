@@ -19,12 +19,10 @@ function getMidPoints(rotatable) {
     var rect = rotatable.getBoundingClientRect();
     elementPosition.x = rect.x;
     elementPosition.y = rect.y;
-    //radius
-    var radius = rect.width / 2;
     //midX and mixY
     var midX = rect.x + rect.width / 2;
     var midY = rect.y + rect.height / 2;
-    return { midX, midY, radius };
+    return { midX, midY };
 }
 /**
  *

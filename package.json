@@ -1,6 +1,6 @@
 {
   "name": "simplyrotate-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package to make it simple to open rotate html elements.",
   "main": "./js/simplyrotate.js",
   "scripts": {
